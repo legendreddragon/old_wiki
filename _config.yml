@@ -1,6 +1,7 @@
 title: Legend of Red Dragon (LoRD) Wiki
 description: A Wiki for the legendreddragon.net version of LoRD
-theme: just-the-docs
+#theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 url: https://legendreddragon.github.io
 
