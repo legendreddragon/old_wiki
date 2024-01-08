@@ -1,5 +1,5 @@
 ---
-title: Legend of Red Dragon (LoRD) Wiki
+title: LoRD Wiki
 layout: home
 ---
 
