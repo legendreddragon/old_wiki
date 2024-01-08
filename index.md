@@ -1,5 +1,5 @@
 ---
-title: LoRD Wiki
+title: Home
 layout: home
 ---
 
